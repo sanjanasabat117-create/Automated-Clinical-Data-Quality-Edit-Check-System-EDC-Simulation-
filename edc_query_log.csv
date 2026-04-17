@@ -1,0 +1,598 @@
+Patient_ID,Visit,Field,Query_Description,Severity,Status,Date_Raised,Date_Resolved,Resolution_Time_Days
+1001,Screening,BMI,BMI Mismatch: Calculated 19.0 vs Recorded 19.1,Major,Open,2024-02-07,,
+1001,Visit 2,BMI,BMI Mismatch: Calculated 41.2 vs Recorded 41.1,Major,Open,2024-01-12,,
+1002,End of Study,BMI,BMI Mismatch: Calculated 33.0 vs Recorded 33.1,Major,Open,2024-02-01,,
+1003,Visit 1,BMI,BMI Mismatch: Calculated 44.8 vs Recorded 44.9,Major,Closed,2024-02-20,2024-03-03,12.0
+1003,End of Study,BMI,BMI Mismatch: Calculated 34.3 vs Recorded 34.5,Major,Open,2024-02-27,,
+1004,Visit 1,BMI,BMI Mismatch: Calculated 19.4 vs Recorded 19.5,Major,Open,2024-02-01,,
+1004,End of Study,BMI,BMI Mismatch: Calculated 34.3 vs Recorded 34.4,Major,Open,2024-01-03,,
+1005,Screening,Age,Ineligible age: 16 (Protocol: 18-85),Critical,Open,2024-01-15,,
+1005,Screening,BMI,BMI Mismatch: Calculated 34.1 vs Recorded 34.0,Major,Open,2024-01-19,,
+1005,Visit 1,Age,Ineligible age: 16 (Protocol: 18-85),Critical,Closed,2024-01-17,2024-01-25,8.0
+1005,Visit 2,Age,Ineligible age: 16 (Protocol: 18-85),Critical,Open,2024-01-05,,
+1005,Visit 2,BMI,BMI Mismatch: Calculated 22.6 vs Recorded 22.5,Major,Open,2024-02-14,,
+1005,End of Study,Age,Ineligible age: 16 (Protocol: 18-85),Critical,Closed,2024-02-01,2024-02-09,8.0
+1006,Visit 1,BMI,BMI Mismatch: Calculated 36.4 vs Recorded 36.6,Major,Open,2024-01-07,,
+1006,Visit 2,BMI,BMI Mismatch: Calculated 29.5 vs Recorded 29.3,Major,Closed,2024-02-09,2024-02-13,4.0
+1007,Screening,BMI,BMI Mismatch: Calculated 39.4 vs Recorded 39.3,Major,Closed,2024-02-28,2024-03-12,13.0
+1007,Visit 1,BMI,BMI Mismatch: Calculated 27.6 vs Recorded 27.5,Major,Closed,2024-02-21,2024-02-23,2.0
+1008,End of Study,BMI,BMI Mismatch: Calculated 43.9 vs Recorded 43.8,Major,Open,2024-01-20,,
+1009,Visit 2,BMI,BMI Mismatch: Calculated 40.9 vs Recorded 41.0,Major,Open,2024-01-27,,
+1009,End of Study,BMI,BMI Mismatch: Calculated 26.0 vs Recorded 25.9,Major,Open,2024-01-20,,
+1010,Screening,ICF_Date,Informed Consent Date is missing,Critical,Open,2024-01-18,,
+1010,Visit 1,ICF_Date,Informed Consent Date is missing,Critical,Closed,2024-02-26,2024-03-05,8.0
+1010,Visit 2,ICF_Date,Informed Consent Date is missing,Critical,Open,2024-01-25,,
+1010,Visit 2,BMI,BMI Mismatch: Calculated 28.9 vs Recorded 28.7,Major,Closed,2024-01-05,2024-01-11,6.0
+1010,End of Study,ICF_Date,Informed Consent Date is missing,Critical,Open,2024-01-21,,
+1011,End of Study,BMI,BMI Mismatch: Calculated 29.2 vs Recorded 29.3,Major,Open,2024-02-19,,
+1013,Visit 1,BMI,BMI Mismatch: Calculated 32.4 vs Recorded 32.5,Major,Open,2024-02-29,,
+1013,End of Study,BMI,BMI Mismatch: Calculated 34.6 vs Recorded 34.7,Major,Open,2024-02-28,,
+1014,Visit 2,BMI,BMI Mismatch: Calculated 30.4 vs Recorded 30.5,Major,Open,2024-02-25,,
+1015,Visit 1,BMI,BMI Mismatch: Calculated 17.0 vs Recorded 17.1,Major,Open,2024-02-26,,
+1015,Visit 2,BMI,BMI Mismatch: Calculated 37.6 vs Recorded 37.4,Major,Closed,2024-01-08,2024-01-19,11.0
+1015,End of Study,BMI,BMI Mismatch: Calculated 27.6 vs Recorded 27.8,Major,Closed,2024-02-21,2024-02-24,3.0
+1016,End of Study,BMI,BMI Mismatch: Calculated 25.6 vs Recorded 25.5,Major,Open,2024-01-27,,
+1017,Screening,BMI,BMI Mismatch: Calculated 51.1 vs Recorded 51.3,Major,Closed,2024-02-11,2024-02-22,11.0
+1017,Visit 1,BMI,BMI Mismatch: Calculated 31.5 vs Recorded 31.6,Major,Closed,2024-02-26,2024-02-27,1.0
+1018,Screening,BMI,BMI Mismatch: Calculated 32.2 vs Recorded 32.1,Major,Closed,2024-02-10,2024-02-19,9.0
+1018,Visit 1,BMI,BMI Mismatch: Calculated 24.7 vs Recorded 24.8,Major,Open,2024-01-05,,
+1019,Screening,BMI,BMI Mismatch: Calculated 50.4 vs Recorded 50.6,Major,Open,2024-01-25,,
+1020,Visit 1,BMI,BMI Mismatch: Calculated 25.0 vs Recorded 25.1,Major,Open,2024-01-08,,
+1020,Visit 2,BMI,BMI Mismatch: Calculated 20.4 vs Recorded 20.5,Major,Closed,2024-02-28,2024-03-12,13.0
+1021,End of Study,BMI,BMI Mismatch: Calculated 19.5 vs Recorded 19.6,Major,Open,2024-01-09,,
+1022,Screening,BMI,BMI Mismatch: Calculated 23.2 vs Recorded 23.3,Major,Open,2024-01-24,,
+1022,Visit 1,BMI,BMI Mismatch: Calculated 26.1 vs Recorded 25.9,Major,Open,2024-02-09,,
+1022,End of Study,BMI,BMI Mismatch: Calculated 37.0 vs Recorded 37.2,Major,Open,2024-01-20,,
+1023,Screening,BMI,BMI Mismatch: Calculated 47.3 vs Recorded 47.0,Major,Open,2024-01-24,,
+1024,Screening,AE_Onset_Date,Adverse Event onset before Informed Consent,Major,Open,2024-01-23,,
+1024,Screening,BMI,BMI Mismatch: Calculated 26.6 vs Recorded 26.5,Major,Open,2024-01-04,,
+1025,Screening,BMI,BMI Mismatch: Calculated 23.6 vs Recorded 23.5,Major,Open,2024-01-09,,
+1025,Visit 1,BMI,BMI Mismatch: Calculated 27.4 vs Recorded 27.5,Major,Open,2024-02-15,,
+1026,Visit 1,BMI,BMI Mismatch: Calculated 27.4 vs Recorded 27.5,Major,Open,2024-01-15,,
+1026,Visit 2,BMI,BMI Mismatch: Calculated 51.3 vs Recorded 51.0,Major,Closed,2024-02-08,2024-02-15,7.0
+1026,End of Study,BMI,BMI Mismatch: Calculated 23.5 vs Recorded 23.4,Major,Open,2024-01-23,,
+1027,Screening,BMI,BMI Mismatch: Calculated 48.8 vs Recorded 49.1,Major,Open,2024-02-26,,
+1027,Visit 1,BMI,BMI Mismatch: Calculated 18.5 vs Recorded 18.4,Major,Closed,2024-01-21,2024-01-27,6.0
+1027,End of Study,BMI,BMI Mismatch: Calculated 17.7 vs Recorded 17.8,Major,Closed,2024-01-11,2024-01-15,4.0
+1030,Visit 2,BMI,BMI Mismatch: Calculated 44.2 vs Recorded 44.4,Major,Open,2024-02-13,,
+1032,Screening,BMI,BMI Mismatch: Calculated 39.9 vs Recorded 40.0,Major,Open,2024-01-16,,
+1033,Screening,BMI,BMI Mismatch: Calculated 26.6 vs Recorded 26.5,Major,Closed,2024-01-26,2024-01-30,4.0
+1033,Visit 1,BMI,BMI Mismatch: Calculated 36.2 vs Recorded 36.1,Major,Open,2024-01-03,,
+1033,Visit 2,BMI,BMI Mismatch: Calculated 25.2 vs Recorded 25.3,Major,Open,2024-02-20,,
+1034,End of Study,BMI,BMI Mismatch: Calculated 34.5 vs Recorded 34.4,Major,Open,2024-01-14,,
+1035,Screening,BMI,BMI Mismatch: Calculated 42.5 vs Recorded 42.6,Major,Open,2024-01-09,,
+1036,Visit 2,BMI,BMI Mismatch: Calculated 43.0 vs Recorded 43.1,Major,Closed,2024-01-20,2024-01-29,9.0
+1036,End of Study,BMI,BMI Mismatch: Calculated 22.0 vs Recorded 21.9,Major,Open,2024-01-30,,
+1037,Visit 2,BMI,BMI Mismatch: Calculated 25.8 vs Recorded 25.7,Major,Closed,2024-01-01,2024-01-04,3.0
+1037,End of Study,BMI,BMI Mismatch: Calculated 24.4 vs Recorded 24.5,Major,Open,2024-02-16,,
+1038,Screening,BMI,BMI Mismatch: Calculated 44.4 vs Recorded 44.2,Major,Closed,2024-01-09,2024-01-17,8.0
+1038,End of Study,BMI,BMI Mismatch: Calculated 30.9 vs Recorded 31.0,Major,Open,2024-01-08,,
+1040,Visit 1,BP,Systolic (80) <= Diastolic (120),Critical,Closed,2024-02-20,2024-03-03,12.0
+1040,Visit 1,BMI,BMI Mismatch: Calculated 49.4 vs Recorded 49.6,Major,Open,2024-01-17,,
+1041,Visit 1,BMI,BMI Mismatch: Calculated 29.5 vs Recorded 29.4,Major,Closed,2024-02-15,2024-02-26,11.0
+1041,End of Study,BMI,BMI Mismatch: Calculated 35.9 vs Recorded 35.8,Major,Closed,2024-02-01,2024-02-10,9.0
+1042,Visit 2,BMI,BMI Mismatch: Calculated 20.0 vs Recorded 20.1,Major,Closed,2024-01-16,2024-01-23,7.0
+1042,End of Study,BMI,BMI Mismatch: Calculated 31.6 vs Recorded 31.5,Major,Open,2024-01-17,,
+1043,Screening,BMI,BMI Mismatch: Calculated 41.4 vs Recorded 41.6,Major,Open,2024-01-03,,
+1043,Visit 2,BMI,BMI Mismatch: Calculated 29.1 vs Recorded 29.0,Major,Closed,2024-01-23,2024-01-29,6.0
+1043,End of Study,BMI,BMI Mismatch: Calculated 39.5 vs Recorded 39.7,Major,Open,2024-02-14,,
+1044,Screening,BMI,BMI Mismatch: Calculated 36.8 vs Recorded 36.9,Major,Closed,2024-02-19,2024-02-23,4.0
+1044,Visit 1,BMI,BMI Mismatch: Calculated 30.6 vs Recorded 30.4,Major,Open,2024-01-31,,
+1044,Visit 2,BMI,BMI Mismatch: Calculated 30.1 vs Recorded 30.0,Major,Open,2024-02-29,,
+1045,Screening,BMI,BMI Mismatch: Calculated 30.8 vs Recorded 30.7,Major,Closed,2024-01-30,2024-02-04,5.0
+1045,Visit 2,BMI,BMI Mismatch: Calculated 47.9 vs Recorded 47.7,Major,Open,2024-02-25,,
+1045,End of Study,BMI,BMI Mismatch: Calculated 44.3 vs Recorded 44.0,Major,Closed,2024-02-23,2024-02-24,1.0
+1046,Screening,BMI,BMI Mismatch: Calculated 38.0 vs Recorded 37.8,Major,Open,2024-02-07,,
+1046,Visit 2,BMI,BMI Mismatch: Calculated 33.0 vs Recorded 32.9,Major,Closed,2024-02-16,2024-02-22,6.0
+1046,End of Study,BMI,BMI Mismatch: Calculated 17.4 vs Recorded 17.5,Major,Open,2024-01-14,,
+1047,End of Study,BMI,BMI Mismatch: Calculated 23.8 vs Recorded 23.7,Major,Open,2024-01-14,,
+1048,Screening,BMI,BMI Mismatch: Calculated 28.3 vs Recorded 28.2,Major,Open,2024-01-18,,
+1048,End of Study,BMI,BMI Mismatch: Calculated 26.5 vs Recorded 26.4,Major,Closed,2024-02-04,2024-02-08,4.0
+1049,Screening,BMI,BMI Mismatch: Calculated 38.1 vs Recorded 38.3,Major,Open,2024-01-05,,
+1049,Visit 1,BMI,BMI Mismatch: Calculated 34.4 vs Recorded 34.5,Major,Closed,2024-02-05,2024-02-18,13.0
+1050,Visit 2,BMI,BMI Mismatch: Calculated 39.6 vs Recorded 39.4,Major,Open,2024-01-03,,
+1051,Screening,BMI,BMI Mismatch: Calculated 25.6 vs Recorded 25.5,Major,Closed,2024-02-08,2024-02-18,10.0
+1051,Visit 1,BMI,BMI Mismatch: Calculated 28.4 vs Recorded 28.5,Major,Open,2024-02-14,,
+1051,Visit 2,BMI,BMI Mismatch: Calculated 38.0 vs Recorded 38.1,Major,Open,2024-01-18,,
+1052,Visit 2,BMI,BMI Mismatch: Calculated 38.7 vs Recorded 38.5,Major,Closed,2024-01-11,2024-01-13,2.0
+1053,Screening,BMI,BMI Mismatch: Calculated 26.9 vs Recorded 27.0,Major,Open,2024-02-11,,
+1053,Visit 1,BMI,BMI Mismatch: Calculated 40.0 vs Recorded 39.7,Major,Closed,2024-02-04,2024-02-14,10.0
+1053,Visit 2,BMI,BMI Mismatch: Calculated 31.5 vs Recorded 31.6,Major,Open,2024-02-02,,
+1053,End of Study,BMI,BMI Mismatch: Calculated 26.9 vs Recorded 27.0,Major,Open,2024-01-27,,
+1054,Screening,BMI,BMI Mismatch: Calculated 46.7 vs Recorded 46.6,Major,Closed,2024-02-08,2024-02-14,6.0
+1054,Visit 1,BMI,BMI Mismatch: Calculated 23.2 vs Recorded 23.3,Major,Open,2024-02-19,,
+1055,Screening,BMI,BMI Mismatch: Calculated 23.5 vs Recorded 23.4,Major,Open,2024-01-14,,
+1055,Visit 1,BMI,BMI Mismatch: Calculated 23.9 vs Recorded 24.0,Major,Open,2024-02-14,,
+1055,End of Study,AE_Onset_Date,Adverse Event onset before Informed Consent,Major,Open,2024-01-19,,
+1055,End of Study,BMI,BMI Mismatch: Calculated 22.3 vs Recorded 22.5,Major,Open,2024-02-21,,
+1056,Visit 1,BMI,BMI Mismatch: Calculated 37.0 vs Recorded 37.1,Major,Open,2024-02-09,,
+1056,Visit 2,BMI,BMI Mismatch: Calculated 26.2 vs Recorded 26.0,Major,Open,2024-01-13,,
+1056,End of Study,BMI,BMI Mismatch: Calculated 49.1 vs Recorded 49.3,Major,Closed,2024-02-27,2024-02-29,2.0
+1057,Screening,BMI,BMI Mismatch: Calculated 28.0 vs Recorded 27.9,Major,Open,2024-01-28,,
+1057,Visit 1,AE_Onset_Date,Adverse Event onset before Informed Consent,Major,Closed,2024-01-13,2024-01-20,7.0
+1057,Visit 1,BMI,BMI Mismatch: Calculated 34.6 vs Recorded 34.8,Major,Open,2024-01-31,,
+1058,Visit 1,BMI,BMI Mismatch: Calculated 35.8 vs Recorded 35.9,Major,Closed,2024-02-01,2024-02-06,5.0
+1058,Visit 2,BMI,BMI Mismatch: Calculated 25.8 vs Recorded 25.7,Major,Closed,2024-02-04,2024-02-15,11.0
+1059,Screening,BMI,BMI Mismatch: Calculated 20.6 vs Recorded 20.5,Major,Open,2024-02-26,,
+1059,End of Study,BMI,BMI Mismatch: Calculated 28.3 vs Recorded 28.2,Major,Open,2024-01-06,,
+1060,Screening,BMI,BMI Mismatch: Calculated 32.6 vs Recorded 32.7,Major,Closed,2024-02-28,2024-03-11,12.0
+1060,Visit 1,BMI,BMI Mismatch: Calculated 36.7 vs Recorded 36.9,Major,Open,2024-02-03,,
+1060,End of Study,Visit_Date,Visit date recorded in the future,Critical,Closed,2024-02-24,2024-03-04,9.0
+1060,End of Study,BMI,BMI Mismatch: Calculated 41.9 vs Recorded 41.8,Major,Open,2024-01-20,,
+1062,Visit 2,BMI,BMI Mismatch: Calculated 29.9 vs Recorded 30.0,Major,Open,2024-02-14,,
+1062,End of Study,BMI,BMI Mismatch: Calculated 26.8 vs Recorded 26.7,Major,Open,2024-01-05,,
+1063,Visit 2,BMI,BMI Mismatch: Calculated 35.2 vs Recorded 35.4,Major,Closed,2024-02-03,2024-02-15,12.0
+1063,End of Study,BMI,BMI Mismatch: Calculated 24.2 vs Recorded 24.3,Major,Open,2024-01-24,,
+1064,Screening,BMI,BMI Mismatch: Calculated 35.4 vs Recorded 35.5,Major,Closed,2024-02-22,2024-02-29,7.0
+1064,End of Study,BMI,BMI Mismatch: Calculated 39.6 vs Recorded 39.5,Major,Open,2024-01-04,,
+1065,Visit 1,BMI,BMI Mismatch: Calculated 27.5 vs Recorded 27.4,Major,Open,2024-02-13,,
+1065,End of Study,BMI,BMI Mismatch: Calculated 31.0 vs Recorded 31.2,Major,Open,2024-01-07,,
+1066,End of Study,BMI,BMI Mismatch: Calculated 32.0 vs Recorded 31.9,Major,Open,2024-02-22,,
+1068,Screening,BMI,BMI Mismatch: Calculated 17.8 vs Recorded 17.7,Major,Closed,2024-02-21,2024-03-02,10.0
+1069,Screening,BMI,BMI Mismatch: Calculated 19.7 vs Recorded 19.8,Major,Open,2024-02-19,,
+1069,Visit 1,BMI,BMI Mismatch: Calculated 35.0 vs Recorded 34.8,Major,Open,2024-01-04,,
+1069,End of Study,BMI,BMI Mismatch: Calculated 23.0 vs Recorded 22.9,Major,Closed,2024-01-03,2024-01-07,4.0
+1070,Visit 1,BMI,BMI Mismatch: Calculated 28.2 vs Recorded 28.3,Major,Open,2024-01-04,,
+1070,End of Study,BMI,BMI Mismatch: Calculated 22.3 vs Recorded 22.2,Major,Open,2024-02-23,,
+1071,Screening,BMI,BMI Mismatch: Calculated 36.0 vs Recorded 36.2,Major,Open,2024-02-19,,
+1072,Screening,BMI,BMI Mismatch: Calculated 38.9 vs Recorded 39.1,Major,Closed,2024-02-13,2024-02-27,14.0
+1072,Visit 2,BMI,BMI Mismatch: Calculated 38.3 vs Recorded 38.4,Major,Open,2024-02-18,,
+1072,End of Study,BMI,BMI Mismatch: Calculated 18.0 vs Recorded 17.9,Major,Closed,2024-01-12,2024-01-26,14.0
+1073,End of Study,BMI,BMI Mismatch: Calculated 38.8 vs Recorded 38.6,Major,Open,2024-02-18,,
+1074,Visit 2,BMI,BMI Mismatch: Calculated 41.5 vs Recorded 41.6,Major,Open,2024-01-24,,
+1074,End of Study,BMI,BMI Mismatch: Calculated 25.4 vs Recorded 25.5,Major,Open,2024-01-14,,
+1075,Screening,BMI,BMI Mismatch: Calculated 29.5 vs Recorded 29.6,Major,Open,2024-01-11,,
+1075,End of Study,BMI,BMI Mismatch: Calculated 27.4 vs Recorded 27.2,Major,Open,2024-02-15,,
+1076,Screening,BMI,BMI Mismatch: Calculated 40.6 vs Recorded 40.4,Major,Open,2024-02-26,,
+1076,Visit 1,BMI,BMI Mismatch: Calculated 27.0 vs Recorded 26.9,Major,Open,2024-01-27,,
+1076,Visit 2,BMI,BMI Mismatch: Calculated 19.4 vs Recorded 19.5,Major,Open,2024-01-09,,
+1076,End of Study,BMI,BMI Mismatch: Calculated 32.8 vs Recorded 32.6,Major,Open,2024-01-19,,
+1077,Visit 1,BMI,BMI Mismatch: Calculated 24.5 vs Recorded 24.6,Major,Closed,2024-02-16,2024-02-23,7.0
+1078,Visit 1,BMI,BMI Mismatch: Calculated 29.8 vs Recorded 29.6,Major,Open,2024-02-23,,
+1078,Visit 2,BMI,BMI Mismatch: Calculated 37.9 vs Recorded 38.0,Major,Open,2024-02-17,,
+1079,Screening,BMI,BMI Mismatch: Calculated 18.0 vs Recorded 17.9,Major,Closed,2024-02-14,2024-02-22,8.0
+1079,Visit 1,BMI,BMI Mismatch: Calculated 29.9 vs Recorded 30.0,Major,Open,2024-02-16,,
+1079,End of Study,BMI,BMI Mismatch: Calculated 25.6 vs Recorded 25.5,Major,Open,2024-02-09,,
+1080,Screening,Pulse,Pulse value 220 is out of clinical range (40-180),Major,Open,2024-01-04,,
+1080,Visit 1,BMI,BMI Mismatch: Calculated 33.4 vs Recorded 33.2,Major,Open,2024-01-25,,
+1081,End of Study,BMI,BMI Mismatch: Calculated 29.7 vs Recorded 29.8,Major,Closed,2024-02-01,2024-02-05,4.0
+1082,Screening,BMI,BMI Mismatch: Calculated 20.3 vs Recorded 20.2,Major,Open,2024-01-13,,
+1082,Visit 2,BMI,BMI Mismatch: Calculated 20.8 vs Recorded 20.7,Major,Open,2024-01-18,,
+1083,End of Study,BMI,BMI Mismatch: Calculated 39.4 vs Recorded 39.2,Major,Open,2024-02-10,,
+1084,Screening,BMI,BMI Mismatch: Calculated 40.8 vs Recorded 41.0,Major,Open,2024-01-03,,
+1084,Visit 1,BMI,BMI Mismatch: Calculated 16.9 vs Recorded 17.0,Major,Closed,2024-02-15,2024-02-17,2.0
+1084,Visit 2,BMI,BMI Mismatch: Calculated 33.8 vs Recorded 33.9,Major,Closed,2024-01-30,2024-02-12,13.0
+1084,End of Study,BMI,BMI Mismatch: Calculated 36.0 vs Recorded 35.9,Major,Open,2024-02-29,,
+1085,Screening,BMI,BMI Mismatch: Calculated 24.9 vs Recorded 25.0,Major,Open,2024-01-11,,
+1086,Screening,BMI,BMI Mismatch: Calculated 35.8 vs Recorded 35.6,Major,Closed,2024-02-20,2024-02-27,7.0
+1086,Visit 2,BMI,BMI Mismatch: Calculated 36.7 vs Recorded 36.9,Major,Open,2024-02-24,,
+1086,End of Study,BMI,BMI Mismatch: Calculated 20.2 vs Recorded 20.3,Major,Closed,2024-02-16,2024-02-28,12.0
+1087,Screening,BMI,BMI Mismatch: Calculated 48.3 vs Recorded 48.1,Major,Open,2024-02-14,,
+1087,Visit 1,BMI,BMI Mismatch: Calculated 46.6 vs Recorded 46.7,Major,Open,2024-01-19,,
+1087,End of Study,BMI,BMI Mismatch: Calculated 45.4 vs Recorded 45.6,Major,Open,2024-02-01,,
+1088,Screening,BMI,BMI Mismatch: Calculated 29.8 vs Recorded 30.0,Major,Open,2024-02-02,,
+1088,Visit 1,BMI,BMI Mismatch: Calculated 30.1 vs Recorded 30.0,Major,Closed,2024-02-09,2024-02-13,4.0
+1088,Visit 2,BMI,BMI Mismatch: Calculated 21.6 vs Recorded 21.5,Major,Open,2024-02-22,,
+1089,Screening,BMI,BMI Mismatch: Calculated 24.2 vs Recorded 24.3,Major,Open,2024-01-02,,
+1089,Visit 2,BMI,BMI Mismatch: Calculated 26.5 vs Recorded 26.7,Major,Open,2024-01-26,,
+1089,End of Study,BMI,BMI Mismatch: Calculated 23.8 vs Recorded 23.7,Major,Open,2024-02-22,,
+1090,Screening,BMI,BMI Mismatch: Calculated 17.5 vs Recorded 17.6,Major,Open,2024-01-16,,
+1090,End of Study,BMI,BMI Mismatch: Calculated 39.9 vs Recorded 39.7,Major,Open,2024-01-08,,
+1091,Screening,BMI,BMI Mismatch: Calculated 42.1 vs Recorded 42.0,Major,Open,2024-01-10,,
+1092,Visit 1,BMI,BMI Mismatch: Calculated 23.8 vs Recorded 23.7,Major,Open,2024-02-21,,
+1093,Visit 2,BMI,BMI Mismatch: Calculated 36.1 vs Recorded 36.2,Major,Open,2024-02-26,,
+1093,End of Study,BMI,BMI Mismatch: Calculated 25.7 vs Recorded 25.8,Major,Open,2024-01-09,,
+1094,Screening,BMI,BMI Mismatch: Calculated 30.5 vs Recorded 30.4,Major,Open,2024-01-05,,
+1094,Visit 1,BMI,BMI Mismatch: Calculated 29.7 vs Recorded 29.8,Major,Closed,2024-02-20,2024-02-29,9.0
+1094,Visit 2,BMI,BMI Mismatch: Calculated 32.5 vs Recorded 32.6,Major,Open,2024-01-12,,
+1094,End of Study,BMI,BMI Mismatch: Calculated 37.1 vs Recorded 37.0,Major,Closed,2024-02-03,2024-02-07,4.0
+1095,Screening,BMI,BMI Mismatch: Calculated 22.3 vs Recorded 22.1,Major,Closed,2024-01-14,2024-01-16,2.0
+1095,Visit 1,BMI,BMI Mismatch: Calculated 34.1 vs Recorded 34.4,Major,Closed,2024-02-20,2024-02-29,9.0
+1096,Visit 1,BMI,BMI Mismatch: Calculated 37.1 vs Recorded 37.2,Major,Open,2024-01-11,,
+1097,Screening,BMI,BMI Mismatch: Calculated 32.1 vs Recorded 32.2,Major,Open,2024-01-26,,
+1097,Visit 2,BMI,BMI Mismatch: Calculated 37.6 vs Recorded 37.7,Major,Open,2024-02-07,,
+1098,Visit 1,BMI,BMI Mismatch: Calculated 26.6 vs Recorded 26.5,Major,Open,2024-02-11,,
+1098,Visit 2,BMI,BMI Mismatch: Calculated 48.1 vs Recorded 48.0,Major,Closed,2024-02-04,2024-02-14,10.0
+1099,Screening,BMI,BMI Mismatch: Calculated 38.5 vs Recorded 38.7,Major,Open,2024-02-15,,
+1099,Visit 1,BMI,BMI Mismatch: Calculated 35.4 vs Recorded 35.5,Major,Closed,2024-02-28,2024-03-13,14.0
+1100,Visit 1,BMI,BMI Mismatch: Calculated 49.0 vs Recorded 45.0,Major,Open,2024-02-09,,
+1100,End of Study,BMI,BMI Mismatch: Calculated 28.7 vs Recorded 28.8,Major,Open,2024-01-05,,
+1101,Visit 2,BMI,BMI Mismatch: Calculated 33.9 vs Recorded 34.0,Major,Open,2024-02-14,,
+1102,Screening,BMI,BMI Mismatch: Calculated 31.5 vs Recorded 31.4,Major,Open,2024-01-19,,
+1102,Visit 2,BMI,BMI Mismatch: Calculated 35.2 vs Recorded 35.1,Major,Closed,2024-02-03,2024-02-14,11.0
+1102,End of Study,BMI,BMI Mismatch: Calculated 31.6 vs Recorded 31.5,Major,Open,2024-02-29,,
+1103,Screening,BMI,BMI Mismatch: Calculated 39.7 vs Recorded 39.6,Major,Open,2024-02-19,,
+1103,Visit 2,BMI,BMI Mismatch: Calculated 18.0 vs Recorded 18.1,Major,Closed,2024-02-04,2024-02-18,14.0
+1103,End of Study,BMI,BMI Mismatch: Calculated 25.1 vs Recorded 25.0,Major,Open,2024-01-14,,
+1104,Visit 1,AE_Onset_Date,Adverse Event onset before Informed Consent,Major,Closed,2024-01-23,2024-01-27,4.0
+1104,Visit 1,BMI,BMI Mismatch: Calculated 26.4 vs Recorded 26.6,Major,Closed,2024-01-21,2024-01-27,6.0
+1104,Visit 2,BMI,BMI Mismatch: Calculated 28.9 vs Recorded 29.0,Major,Closed,2024-02-08,2024-02-22,14.0
+1104,End of Study,BMI,BMI Mismatch: Calculated 19.2 vs Recorded 19.3,Major,Open,2024-01-26,,
+1105,Screening,BMI,BMI Mismatch: Calculated 21.8 vs Recorded 21.7,Major,Closed,2024-02-06,2024-02-20,14.0
+1105,Visit 1,BMI,BMI Mismatch: Calculated 24.8 vs Recorded 24.7,Major,Open,2024-02-06,,
+1106,End of Study,BMI,BMI Mismatch: Calculated 26.0 vs Recorded 26.2,Major,Open,2024-02-23,,
+1107,Visit 2,BMI,BMI Mismatch: Calculated 16.0 vs Recorded 16.1,Major,Open,2024-01-26,,
+1107,End of Study,BMI,BMI Mismatch: Calculated 26.0 vs Recorded 26.2,Major,Open,2024-01-02,,
+1108,Screening,BMI,BMI Mismatch: Calculated 18.3 vs Recorded 18.2,Major,Closed,2024-01-22,2024-01-30,8.0
+1108,Visit 1,BMI,BMI Mismatch: Calculated 33.1 vs Recorded 32.9,Major,Open,2024-01-12,,
+1108,Visit 2,BMI,BMI Mismatch: Calculated 23.5 vs Recorded 23.4,Major,Open,2024-02-12,,
+1108,End of Study,BMI,BMI Mismatch: Calculated 26.8 vs Recorded 26.7,Major,Closed,2024-01-29,2024-02-12,14.0
+1109,Screening,BMI,BMI Mismatch: Calculated 19.3 vs Recorded 19.2,Major,Closed,2024-01-17,2024-01-25,8.0
+1110,Visit 1,BMI,BMI Mismatch: Calculated 46.4 vs Recorded 46.6,Major,Open,2024-01-28,,
+1110,Visit 2,BMI,BMI Mismatch: Calculated 33.5 vs Recorded 33.6,Major,Open,2024-02-10,,
+1110,End of Study,BMI,BMI Mismatch: Calculated 28.3 vs Recorded 28.2,Major,Open,2024-01-07,,
+1111,Screening,BMI,BMI Mismatch: Calculated 17.9 vs Recorded 18.0,Major,Open,2024-02-20,,
+1111,Visit 2,BMI,BMI Mismatch: Calculated 25.0 vs Recorded 24.9,Major,Open,2024-01-18,,
+1112,Screening,BMI,BMI Mismatch: Calculated 32.0 vs Recorded 32.1,Major,Open,2024-02-03,,
+1112,Visit 1,BMI,BMI Mismatch: Calculated 21.5 vs Recorded 21.4,Major,Open,2024-02-02,,
+1112,End of Study,BMI,BMI Mismatch: Calculated 37.7 vs Recorded 37.5,Major,Closed,2024-02-12,2024-02-15,3.0
+1113,Visit 2,BMI,BMI Mismatch: Calculated 39.6 vs Recorded 39.8,Major,Open,2024-01-03,,
+1114,Screening,BMI,BMI Mismatch: Calculated 28.8 vs Recorded 28.7,Major,Closed,2024-02-06,2024-02-17,11.0
+1114,End of Study,BMI,BMI Mismatch: Calculated 45.4 vs Recorded 45.3,Major,Open,2024-01-08,,
+1115,Screening,BMI,BMI Mismatch: Calculated 25.2 vs Recorded 25.3,Major,Open,2024-01-12,,
+1115,Visit 1,BMI,BMI Mismatch: Calculated 35.6 vs Recorded 35.7,Major,Open,2024-01-29,,
+1116,Screening,BMI,BMI Mismatch: Calculated 39.4 vs Recorded 39.6,Major,Open,2024-02-16,,
+1117,Screening,BMI,BMI Mismatch: Calculated 30.0 vs Recorded 30.1,Major,Closed,2024-02-07,2024-02-18,11.0
+1117,Visit 2,BMI,BMI Mismatch: Calculated 34.2 vs Recorded 34.1,Major,Open,2024-02-13,,
+1117,End of Study,BMI,BMI Mismatch: Calculated 34.4 vs Recorded 34.5,Major,Closed,2024-01-10,2024-01-16,6.0
+1118,Screening,BMI,BMI Mismatch: Calculated 26.3 vs Recorded 26.5,Major,Open,2024-01-29,,
+1118,Visit 1,BMI,BMI Mismatch: Calculated 18.5 vs Recorded 18.6,Major,Open,2024-02-02,,
+1118,Visit 2,BMI,BMI Mismatch: Calculated 27.0 vs Recorded 26.9,Major,Open,2024-02-07,,
+1119,Screening,BMI,BMI Mismatch: Calculated 41.1 vs Recorded 41.3,Major,Open,2024-01-08,,
+1119,Visit 1,BMI,BMI Mismatch: Calculated 30.0 vs Recorded 30.1,Major,Open,2024-02-22,,
+1119,Visit 2,BMI,BMI Mismatch: Calculated 21.2 vs Recorded 21.3,Major,Open,2024-01-25,,
+1120,Screening,BMI,BMI Mismatch: Calculated 35.5 vs Recorded 35.4,Major,Closed,2024-02-15,2024-02-17,2.0
+1120,Visit 1,AE_Onset_Date,Adverse Event onset before Informed Consent,Major,Closed,2024-02-25,2024-03-10,14.0
+1120,Visit 1,BMI,BMI Mismatch: Calculated 31.5 vs Recorded 31.4,Major,Closed,2024-02-05,2024-02-07,2.0
+1120,Visit 2,BMI,BMI Mismatch: Calculated 38.9 vs Recorded 39.0,Major,Open,2024-01-29,,
+1120,End of Study,BMI,BMI Mismatch: Calculated 28.1 vs Recorded 28.0,Major,Open,2024-01-16,,
+1121,Visit 2,BMI,BMI Mismatch: Calculated 20.0 vs Recorded 19.9,Major,Open,2024-01-11,,
+1121,End of Study,BMI,BMI Mismatch: Calculated 36.9 vs Recorded 36.8,Major,Open,2024-01-11,,
+1122,Visit 1,BMI,BMI Mismatch: Calculated 30.2 vs Recorded 30.3,Major,Open,2024-01-20,,
+1122,Visit 2,BMI,BMI Mismatch: Calculated 28.0 vs Recorded 28.1,Major,Open,2024-01-22,,
+1123,Visit 1,BMI,BMI Mismatch: Calculated 14.2 vs Recorded 14.3,Major,Closed,2024-02-10,2024-02-19,9.0
+1123,End of Study,BMI,BMI Mismatch: Calculated 19.2 vs Recorded 19.3,Major,Open,2024-01-02,,
+1124,Screening,BMI,BMI Mismatch: Calculated 27.1 vs Recorded 27.0,Major,Closed,2024-02-25,2024-02-26,1.0
+1124,Visit 1,BMI,BMI Mismatch: Calculated 24.5 vs Recorded 24.3,Major,Open,2024-01-18,,
+1125,Screening,BMI,BMI Mismatch: Calculated 25.8 vs Recorded 26.0,Major,Closed,2024-01-23,2024-01-28,5.0
+1125,Visit 1,BMI,BMI Mismatch: Calculated 31.6 vs Recorded 31.5,Major,Closed,2024-01-13,2024-01-20,7.0
+1127,Visit 1,BMI,BMI Mismatch: Calculated 23.5 vs Recorded 23.7,Major,Closed,2024-02-06,2024-02-14,8.0
+1127,Visit 2,BMI,BMI Mismatch: Calculated 32.0 vs Recorded 32.1,Major,Closed,2024-02-18,2024-03-01,12.0
+1128,Visit 1,BMI,BMI Mismatch: Calculated 38.4 vs Recorded 38.3,Major,Open,2024-02-13,,
+1128,End of Study,BMI,BMI Mismatch: Calculated 27.8 vs Recorded 27.6,Major,Open,2024-02-02,,
+1129,Screening,BMI,BMI Mismatch: Calculated 36.0 vs Recorded 35.9,Major,Open,2024-02-23,,
+1129,Visit 2,BMI,BMI Mismatch: Calculated 41.8 vs Recorded 41.9,Major,Open,2024-01-13,,
+1130,Visit 2,BMI,BMI Mismatch: Calculated 28.0 vs Recorded 27.9,Major,Closed,2024-01-03,2024-01-08,5.0
+1132,Visit 1,BMI,BMI Mismatch: Calculated 34.9 vs Recorded 35.0,Major,Open,2024-02-20,,
+1132,Visit 2,BMI,BMI Mismatch: Calculated 34.5 vs Recorded 34.4,Major,Open,2024-02-26,,
+1132,End of Study,BMI,BMI Mismatch: Calculated 29.4 vs Recorded 29.5,Major,Open,2024-02-28,,
+1133,Screening,BMI,BMI Mismatch: Calculated 30.8 vs Recorded 30.7,Major,Closed,2024-02-15,2024-02-19,4.0
+1133,Visit 1,BMI,BMI Mismatch: Calculated 30.0 vs Recorded 29.9,Major,Open,2024-02-14,,
+1133,End of Study,BMI,BMI Mismatch: Calculated 20.8 vs Recorded 20.7,Major,Open,2024-02-02,,
+1134,Screening,BMI,BMI Mismatch: Calculated 32.0 vs Recorded 32.2,Major,Open,2024-02-12,,
+1134,Visit 1,BMI,BMI Mismatch: Calculated 22.4 vs Recorded 22.5,Major,Closed,2024-01-14,2024-01-25,11.0
+1134,Visit 2,AE_Onset_Date,Adverse Event onset before Informed Consent,Major,Open,2024-01-26,,
+1134,End of Study,BMI,BMI Mismatch: Calculated 22.7 vs Recorded 22.8,Major,Closed,2024-01-02,2024-01-09,7.0
+1135,Visit 1,BMI,BMI Mismatch: Calculated 35.8 vs Recorded 35.6,Major,Closed,2024-02-01,2024-02-08,7.0
+1135,Visit 2,BMI,BMI Mismatch: Calculated 17.9 vs Recorded 18.0,Major,Open,2024-01-18,,
+1136,Visit 1,BMI,BMI Mismatch: Calculated 43.5 vs Recorded 43.2,Major,Closed,2024-01-03,2024-01-05,2.0
+1137,Visit 2,BMI,BMI Mismatch: Calculated 51.9 vs Recorded 52.2,Major,Closed,2024-01-22,2024-01-24,2.0
+1137,End of Study,BMI,BMI Mismatch: Calculated 42.9 vs Recorded 42.6,Major,Open,2024-02-24,,
+1138,Screening,BMI,BMI Mismatch: Calculated 36.0 vs Recorded 36.1,Major,Open,2024-02-01,,
+1138,Visit 2,BMI,BMI Mismatch: Calculated 25.8 vs Recorded 25.6,Major,Open,2024-01-11,,
+1139,Screening,AE_Onset_Date,Adverse Event onset before Informed Consent,Major,Open,2024-02-21,,
+1139,Screening,BMI,BMI Mismatch: Calculated 44.3 vs Recorded 44.4,Major,Closed,2024-02-16,2024-02-19,3.0
+1140,Screening,BMI,BMI Mismatch: Calculated 25.3 vs Recorded 25.2,Major,Closed,2024-02-11,2024-02-16,5.0
+1140,Visit 2,BMI,BMI Mismatch: Calculated 43.6 vs Recorded 43.5,Major,Open,2024-02-27,,
+1141,Visit 1,BMI,BMI Mismatch: Calculated 35.9 vs Recorded 36.0,Major,Closed,2024-02-23,2024-02-28,5.0
+1141,Visit 2,BMI,BMI Mismatch: Calculated 31.2 vs Recorded 31.4,Major,Open,2024-02-15,,
+1142,Visit 2,BMI,BMI Mismatch: Calculated 19.4 vs Recorded 19.5,Major,Open,2024-02-22,,
+1144,Screening,BMI,BMI Mismatch: Calculated 21.7 vs Recorded 21.8,Major,Open,2024-02-05,,
+1144,Visit 2,BMI,BMI Mismatch: Calculated 27.4 vs Recorded 27.5,Major,Open,2024-01-23,,
+1144,End of Study,BMI,BMI Mismatch: Calculated 29.1 vs Recorded 29.3,Major,Open,2024-01-15,,
+1145,Visit 1,BMI,BMI Mismatch: Calculated 19.4 vs Recorded 19.5,Major,Open,2024-02-25,,
+1145,Visit 2,BMI,BMI Mismatch: Calculated 23.4 vs Recorded 23.5,Major,Open,2024-01-15,,
+1145,End of Study,BMI,BMI Mismatch: Calculated 24.5 vs Recorded 24.4,Major,Open,2024-02-20,,
+1146,Visit 1,BMI,BMI Mismatch: Calculated 45.1 vs Recorded 44.8,Major,Closed,2024-01-05,2024-01-08,3.0
+1146,Visit 2,BMI,BMI Mismatch: Calculated 23.8 vs Recorded 23.7,Major,Open,2024-01-01,,
+1147,Screening,BMI,BMI Mismatch: Calculated 21.0 vs Recorded 21.1,Major,Open,2024-01-29,,
+1147,Visit 1,BMI,BMI Mismatch: Calculated 21.7 vs Recorded 21.8,Major,Open,2024-02-15,,
+1147,Visit 2,BMI,BMI Mismatch: Calculated 32.2 vs Recorded 32.1,Major,Open,2024-02-29,,
+1148,Screening,BMI,BMI Mismatch: Calculated 48.9 vs Recorded 48.8,Major,Open,2024-02-07,,
+1148,Visit 2,BMI,BMI Mismatch: Calculated 30.2 vs Recorded 30.3,Major,Closed,2024-02-22,2024-03-06,13.0
+1149,Screening,BMI,BMI Mismatch: Calculated 22.9 vs Recorded 23.0,Major,Closed,2024-01-10,2024-01-19,9.0
+1149,Visit 1,BMI,BMI Mismatch: Calculated 35.0 vs Recorded 35.1,Major,Closed,2024-02-01,2024-02-15,14.0
+1150,Visit 2,BMI,BMI Mismatch: Calculated 27.4 vs Recorded 27.2,Major,Open,2024-02-03,,
+1151,Screening,BMI,BMI Mismatch: Calculated 19.6 vs Recorded 19.5,Major,Closed,2024-01-28,2024-01-30,2.0
+1151,Visit 1,BMI,BMI Mismatch: Calculated 28.3 vs Recorded 28.1,Major,Open,2024-02-17,,
+1151,End of Study,BMI,BMI Mismatch: Calculated 33.9 vs Recorded 34.1,Major,Open,2024-01-30,,
+1152,Screening,BMI,BMI Mismatch: Calculated 28.8 vs Recorded 28.7,Major,Open,2024-01-15,,
+1152,End of Study,BMI,BMI Mismatch: Calculated 43.6 vs Recorded 43.8,Major,Open,2024-02-16,,
+1153,Screening,BMI,BMI Mismatch: Calculated 25.6 vs Recorded 25.8,Major,Open,2024-02-08,,
+1153,Visit 1,BMI,BMI Mismatch: Calculated 20.8 vs Recorded 20.7,Major,Open,2024-02-24,,
+1153,End of Study,BMI,BMI Mismatch: Calculated 36.1 vs Recorded 36.0,Major,Open,2024-01-12,,
+1154,Screening,BMI,BMI Mismatch: Calculated 30.6 vs Recorded 30.5,Major,Open,2024-01-31,,
+1154,Visit 1,BMI,BMI Mismatch: Calculated 21.9 vs Recorded 22.0,Major,Closed,2024-01-25,2024-02-01,7.0
+1154,Visit 2,BMI,BMI Mismatch: Calculated 22.7 vs Recorded 22.8,Major,Closed,2024-01-25,2024-02-03,9.0
+1154,End of Study,BMI,BMI Mismatch: Calculated 35.3 vs Recorded 35.1,Major,Closed,2024-02-08,2024-02-16,8.0
+1155,Screening,BMI,BMI Mismatch: Calculated 23.8 vs Recorded 23.7,Major,Closed,2024-01-24,2024-01-28,4.0
+1155,Visit 2,BMI,BMI Mismatch: Calculated 47.9 vs Recorded 48.1,Major,Open,2024-01-31,,
+1156,Visit 2,BMI,BMI Mismatch: Calculated 32.6 vs Recorded 32.7,Major,Open,2024-02-02,,
+1156,End of Study,BMI,BMI Mismatch: Calculated 26.7 vs Recorded 26.8,Major,Open,2024-01-15,,
+1157,End of Study,BMI,BMI Mismatch: Calculated 25.2 vs Recorded 25.3,Major,Open,2024-01-28,,
+1158,Screening,BMI,BMI Mismatch: Calculated 16.5 vs Recorded 16.6,Major,Open,2024-01-27,,
+1158,Visit 1,BMI,BMI Mismatch: Calculated 45.9 vs Recorded 46.0,Major,Open,2024-01-23,,
+1158,Visit 2,BMI,BMI Mismatch: Calculated 19.0 vs Recorded 19.1,Major,Open,2024-02-28,,
+1158,End of Study,BMI,BMI Mismatch: Calculated 36.7 vs Recorded 36.6,Major,Closed,2024-02-26,2024-03-01,4.0
+1159,Screening,BMI,BMI Mismatch: Calculated 28.3 vs Recorded 28.2,Major,Open,2024-02-02,,
+1160,Screening,BMI,BMI Mismatch: Calculated 25.8 vs Recorded 25.7,Major,Open,2024-02-11,,
+1160,End of Study,BMI,BMI Mismatch: Calculated 36.3 vs Recorded 36.1,Major,Open,2024-02-21,,
+1162,Screening,BMI,BMI Mismatch: Calculated 22.6 vs Recorded 22.5,Major,Open,2024-02-29,,
+1162,Visit 1,BMI,BMI Mismatch: Calculated 36.0 vs Recorded 35.8,Major,Open,2024-02-26,,
+1162,Visit 2,BMI,BMI Mismatch: Calculated 35.6 vs Recorded 35.8,Major,Open,2024-02-25,,
+1163,Screening,BMI,BMI Mismatch: Calculated 33.0 vs Recorded 32.9,Major,Open,2024-01-15,,
+1163,End of Study,BMI,BMI Mismatch: Calculated 19.9 vs Recorded 20.0,Major,Closed,2024-02-12,2024-02-26,14.0
+1164,Screening,BMI,BMI Mismatch: Calculated 25.6 vs Recorded 25.5,Major,Open,2024-02-28,,
+1164,Visit 2,BMI,BMI Mismatch: Calculated 39.1 vs Recorded 39.2,Major,Closed,2024-01-22,2024-01-29,7.0
+1164,End of Study,BMI,BMI Mismatch: Calculated 32.2 vs Recorded 32.4,Major,Closed,2024-01-01,2024-01-11,10.0
+1165,Screening,BMI,BMI Mismatch: Calculated 26.0 vs Recorded 26.1,Major,Closed,2024-01-10,2024-01-20,10.0
+1165,End of Study,BMI,BMI Mismatch: Calculated 34.4 vs Recorded 34.5,Major,Closed,2024-02-18,2024-02-25,7.0
+1166,Screening,BMI,BMI Mismatch: Calculated 35.8 vs Recorded 35.6,Major,Open,2024-01-24,,
+1166,Visit 1,BMI,BMI Mismatch: Calculated 28.9 vs Recorded 29.0,Major,Open,2024-02-28,,
+1166,End of Study,BMI,BMI Mismatch: Calculated 35.0 vs Recorded 34.8,Major,Open,2024-01-16,,
+1167,Visit 2,BMI,BMI Mismatch: Calculated 20.6 vs Recorded 20.5,Major,Closed,2024-01-12,2024-01-21,9.0
+1167,End of Study,BMI,BMI Mismatch: Calculated 20.5 vs Recorded 20.6,Major,Closed,2024-01-19,2024-01-28,9.0
+1168,Visit 1,BMI,BMI Mismatch: Calculated 35.4 vs Recorded 35.3,Major,Open,2024-01-17,,
+1168,End of Study,BMI,BMI Mismatch: Calculated 32.1 vs Recorded 32.0,Major,Open,2024-01-18,,
+1169,Screening,BMI,BMI Mismatch: Calculated 28.2 vs Recorded 28.4,Major,Closed,2024-01-01,2024-01-03,2.0
+1170,Visit 1,BMI,BMI Mismatch: Calculated 34.7 vs Recorded 34.6,Major,Closed,2024-01-22,2024-02-02,11.0
+1170,Visit 2,BMI,BMI Mismatch: Calculated 24.6 vs Recorded 24.5,Major,Open,2024-01-03,,
+1171,Screening,BMI,BMI Mismatch: Calculated 28.5 vs Recorded 28.4,Major,Open,2024-01-26,,
+1171,Visit 1,BMI,BMI Mismatch: Calculated 21.0 vs Recorded 20.9,Major,Open,2024-02-22,,
+1172,Visit 1,BMI,BMI Mismatch: Calculated 35.4 vs Recorded 35.6,Major,Open,2024-02-03,,
+1172,End of Study,BMI,BMI Mismatch: Calculated 33.8 vs Recorded 33.6,Major,Open,2024-02-07,,
+1173,Visit 1,BMI,BMI Mismatch: Calculated 30.2 vs Recorded 30.3,Major,Closed,2024-02-09,2024-02-14,5.0
+1173,End of Study,BMI,BMI Mismatch: Calculated 37.0 vs Recorded 36.8,Major,Closed,2024-01-09,2024-01-20,11.0
+1174,Visit 2,BMI,BMI Mismatch: Calculated 27.5 vs Recorded 27.4,Major,Closed,2024-01-26,2024-01-29,3.0
+1174,End of Study,BMI,BMI Mismatch: Calculated 36.2 vs Recorded 36.1,Major,Open,2024-01-01,,
+1175,Screening,BMI,BMI Mismatch: Calculated 22.4 vs Recorded 22.5,Major,Open,2024-02-26,,
+1176,Visit 2,BMI,BMI Mismatch: Calculated 26.0 vs Recorded 25.9,Major,Open,2024-02-06,,
+1177,Screening,BMI,BMI Mismatch: Calculated 42.8 vs Recorded 42.9,Major,Closed,2024-01-12,2024-01-18,6.0
+1178,Visit 2,BMI,BMI Mismatch: Calculated 37.5 vs Recorded 37.6,Major,Closed,2024-01-14,2024-01-20,6.0
+1178,End of Study,BMI,BMI Mismatch: Calculated 19.6 vs Recorded 19.5,Major,Closed,2024-02-18,2024-02-29,11.0
+1179,Visit 2,BMI,BMI Mismatch: Calculated 29.3 vs Recorded 29.2,Major,Closed,2024-01-17,2024-01-21,4.0
+1180,Visit 1,BMI,BMI Mismatch: Calculated 31.1 vs Recorded 31.0,Major,Open,2024-01-30,,
+1180,Visit 2,BMI,BMI Mismatch: Calculated 35.1 vs Recorded 35.2,Major,Open,2024-02-25,,
+1181,Visit 2,BMI,BMI Mismatch: Calculated 27.5 vs Recorded 27.4,Major,Open,2024-01-26,,
+1181,End of Study,BMI,BMI Mismatch: Calculated 33.2 vs Recorded 33.1,Major,Open,2024-02-06,,
+1182,Visit 1,BMI,BMI Mismatch: Calculated 34.1 vs Recorded 34.0,Major,Closed,2024-01-04,2024-01-18,14.0
+1182,End of Study,BMI,BMI Mismatch: Calculated 31.4 vs Recorded 31.5,Major,Open,2024-02-01,,
+1183,Visit 1,BMI,BMI Mismatch: Calculated 25.7 vs Recorded 25.8,Major,Open,2024-02-18,,
+1183,End of Study,BMI,BMI Mismatch: Calculated 30.0 vs Recorded 29.9,Major,Open,2024-02-05,,
+1184,Visit 1,BMI,BMI Mismatch: Calculated 45.9 vs Recorded 45.8,Major,Closed,2024-01-20,2024-01-27,7.0
+1185,Screening,BMI,BMI Mismatch: Calculated 47.5 vs Recorded 47.3,Major,Closed,2024-01-03,2024-01-09,6.0
+1185,Visit 2,BMI,BMI Mismatch: Calculated 30.7 vs Recorded 30.9,Major,Open,2024-02-25,,
+1186,Screening,BMI,BMI Mismatch: Calculated 35.6 vs Recorded 35.5,Major,Closed,2024-02-07,2024-02-21,14.0
+1186,Visit 1,BMI,BMI Mismatch: Calculated 13.7 vs Recorded 13.8,Major,Open,2024-02-21,,
+1186,Visit 2,BMI,BMI Mismatch: Calculated 19.9 vs Recorded 20.0,Major,Closed,2024-01-16,2024-01-27,11.0
+1186,End of Study,BMI,BMI Mismatch: Calculated 37.0 vs Recorded 37.2,Major,Open,2024-01-23,,
+1187,Visit 1,BMI,BMI Mismatch: Calculated 44.4 vs Recorded 44.7,Major,Closed,2024-02-13,2024-02-17,4.0
+1188,Screening,BMI,BMI Mismatch: Calculated 28.4 vs Recorded 28.5,Major,Open,2024-02-27,,
+1188,Visit 1,BMI,BMI Mismatch: Calculated 22.4 vs Recorded 22.5,Major,Closed,2024-02-29,2024-03-03,3.0
+1188,Visit 2,BMI,BMI Mismatch: Calculated 39.6 vs Recorded 39.7,Major,Open,2024-02-11,,
+1189,End of Study,BMI,BMI Mismatch: Calculated 26.4 vs Recorded 26.5,Major,Closed,2024-02-02,2024-02-04,2.0
+1191,Screening,BMI,BMI Mismatch: Calculated 50.6 vs Recorded 50.4,Major,Open,2024-02-26,,
+1191,Visit 1,BMI,BMI Mismatch: Calculated 18.0 vs Recorded 18.1,Major,Open,2024-02-04,,
+1191,End of Study,BMI,BMI Mismatch: Calculated 41.4 vs Recorded 41.2,Major,Open,2024-01-08,,
+1192,Visit 1,BMI,BMI Mismatch: Calculated 28.6 vs Recorded 28.5,Major,Open,2024-01-15,,
+1192,Visit 2,BMI,BMI Mismatch: Calculated 19.6 vs Recorded 19.5,Major,Closed,2024-01-05,2024-01-15,10.0
+1192,End of Study,BMI,BMI Mismatch: Calculated 21.8 vs Recorded 21.7,Major,Closed,2024-01-12,2024-01-21,9.0
+1193,Visit 1,BMI,BMI Mismatch: Calculated 24.1 vs Recorded 24.0,Major,Open,2024-01-15,,
+1194,Screening,BMI,BMI Mismatch: Calculated 37.4 vs Recorded 37.6,Major,Open,2024-02-09,,
+1194,Visit 1,BMI,BMI Mismatch: Calculated 23.6 vs Recorded 23.5,Major,Open,2024-01-28,,
+1195,Screening,BMI,BMI Mismatch: Calculated 28.4 vs Recorded 28.6,Major,Open,2024-01-31,,
+1195,Visit 1,BMI,BMI Mismatch: Calculated 46.2 vs Recorded 46.1,Major,Closed,2024-02-12,2024-02-24,12.0
+1195,Visit 2,BMI,BMI Mismatch: Calculated 18.0 vs Recorded 17.9,Major,Open,2024-01-13,,
+1196,Screening,BMI,BMI Mismatch: Calculated 38.6 vs Recorded 38.7,Major,Open,2024-02-23,,
+1196,Visit 1,BMI,BMI Mismatch: Calculated 28.9 vs Recorded 29.0,Major,Closed,2024-01-15,2024-01-18,3.0
+1198,Screening,BMI,BMI Mismatch: Calculated 21.5 vs Recorded 21.6,Major,Open,2024-01-11,,
+1198,Visit 1,BMI,BMI Mismatch: Calculated 28.7 vs Recorded 28.5,Major,Closed,2024-02-09,2024-02-16,7.0
+1198,Visit 2,BMI,BMI Mismatch: Calculated 18.6 vs Recorded 18.5,Major,Closed,2024-01-13,2024-01-25,12.0
+1198,End of Study,BMI,BMI Mismatch: Calculated 36.5 vs Recorded 36.4,Major,Closed,2024-02-05,2024-02-07,2.0
+1199,Visit 2,BMI,BMI Mismatch: Calculated 35.0 vs Recorded 34.9,Major,Closed,2024-01-13,2024-01-26,13.0
+1199,End of Study,BMI,BMI Mismatch: Calculated 36.0 vs Recorded 36.2,Major,Closed,2024-01-18,2024-01-29,11.0
+1200,Screening,BMI,BMI Mismatch: Calculated 19.8 vs Recorded 19.7,Major,Open,2024-02-23,,
+1150,Multiple,Record,Duplicate patient record found for same visit,Critical,Closed,2024-01-12,2024-01-15,3.0
+1025,Visit 2,Visit_Date,Visit 2 occurs before Visit 1,Major,Open,2024-01-12,,
+1001,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-28,2024-02-09,12.0
+1002,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-26,2024-02-29,3.0
+1003,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-18,,
+1004,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-18,2024-01-25,7.0
+1006,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-19,,
+1007,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-25,,
+1008,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-26,2024-01-28,2.0
+1009,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-31,,
+1010,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-03,,
+1011,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-27,,
+1012,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-19,2024-01-24,5.0
+1013,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-01,,
+1014,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-28,,
+1015,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-09,,
+1016,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-24,2024-02-03,10.0
+1017,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-07,,
+1018,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-07,2024-02-15,8.0
+1019,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-16,,
+1020,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-25,,
+1021,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-10,2024-01-18,8.0
+1022,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-28,2024-03-08,9.0
+1023,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-06,,
+1024,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-23,,
+1025,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-21,,
+1026,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-01,,
+1027,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-20,,
+1028,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-08,,
+1029,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-14,,
+1030,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-16,,
+1031,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-13,,
+1032,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-22,,
+1033,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-15,,
+1034,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-11,2024-01-16,5.0
+1035,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-01,,
+1036,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-13,,
+1037,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-03,,
+1038,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-02,,
+1039,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-03,,
+1040,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-31,,
+1041,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-12,,
+1042,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-28,2024-03-02,3.0
+1043,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-22,2024-01-30,8.0
+1044,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-08,2024-02-22,14.0
+1045,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-25,,
+1046,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-01,,
+1047,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-24,,
+1048,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-24,,
+1049,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-16,,
+1050,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-16,2024-01-17,1.0
+1051,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-26,,
+1052,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-07,2024-02-10,3.0
+1053,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-18,,
+1054,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-02,,
+1055,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-05,,
+1056,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-09,,
+1057,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-19,,
+1059,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-28,,
+1060,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-27,,
+1062,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-28,2024-01-31,3.0
+1063,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-05,,
+1064,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-28,2024-02-09,12.0
+1065,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-01,2024-02-04,3.0
+1066,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-15,2024-01-25,10.0
+1067,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-10,2024-01-20,10.0
+1068,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-06,,
+1069,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-17,2024-02-18,1.0
+1070,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-29,,
+1072,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-05,,
+1073,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-28,,
+1074,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-27,2024-02-09,13.0
+1075,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-02,,
+1076,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-23,,
+1077,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-12,,
+1078,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-11,,
+1079,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-12,,
+1080,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-27,2024-02-29,2.0
+1081,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-22,,
+1082,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-05,,
+1083,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-22,,
+1084,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-17,,
+1085,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-18,,
+1086,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-19,,
+1088,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-05,,
+1089,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-25,,
+1090,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-12,,
+1091,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-07,2024-01-16,9.0
+1092,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-02,,
+1093,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-03,,
+1094,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-26,,
+1095,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-14,,
+1096,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-26,2024-01-29,3.0
+1097,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-05,,
+1098,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-20,,
+1099,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-27,,
+1100,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-11,2024-01-15,4.0
+1101,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-13,,
+1102,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-19,2024-01-26,7.0
+1103,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-23,2024-02-04,12.0
+1104,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-22,,
+1105,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-22,,
+1106,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-12,2024-02-14,2.0
+1107,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-07,2024-02-14,7.0
+1108,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-05,,
+1109,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-05,,
+1110,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-02,2024-01-07,5.0
+1111,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-20,,
+1112,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-13,,
+1113,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-15,,
+1114,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-14,,
+1115,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-30,2024-02-01,2.0
+1116,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-17,2024-01-31,14.0
+1117,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-04,,
+1118,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-01,2024-02-02,1.0
+1119,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-06,,
+1120,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-02,,
+1121,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-03,,
+1122,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-29,,
+1123,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-23,,
+1124,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-24,,
+1125,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-11,,
+1126,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-06,,
+1127,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-09,2024-02-17,8.0
+1128,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-21,,
+1129,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-25,2024-02-02,8.0
+1130,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-13,2024-02-22,9.0
+1131,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-24,,
+1132,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-09,,
+1134,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-05,,
+1135,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-02,,
+1136,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-27,,
+1137,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-03,,
+1138,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-12,,
+1139,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-13,,
+1140,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-01,2024-02-11,10.0
+1141,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-04,,
+1142,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-12,,
+1143,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-16,,
+1145,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-27,2024-01-28,1.0
+1146,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-11,2024-02-22,11.0
+1147,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-29,,
+1148,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-20,,
+1149,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-11,2024-01-14,3.0
+1150,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-04,2024-02-14,10.0
+1151,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-20,,
+1152,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-31,2024-02-03,3.0
+1153,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-05,,
+1154,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-18,,
+1155,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-05,,
+1157,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-01,,
+1158,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-21,,
+1159,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-14,,
+1160,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-01,,
+1161,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-13,,
+1162,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-11,,
+1163,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-15,,
+1164,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-21,,
+1165,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-21,2024-02-03,13.0
+1166,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-25,,
+1167,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-20,,
+1168,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-12,2024-02-14,2.0
+1169,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-23,,
+1170,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-14,,
+1171,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-19,,
+1172,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-20,,
+1173,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-18,2024-01-22,4.0
+1174,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-11,,
+1175,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-30,,
+1176,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-29,,
+1177,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-04,2024-01-09,5.0
+1178,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-12,,
+1179,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-15,,
+1180,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-13,,
+1181,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-12,,
+1182,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-16,,
+1183,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-01,,
+1184,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-15,,
+1185,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-20,2024-01-29,9.0
+1186,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-31,,
+1187,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-12,,
+1188,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-29,2024-02-12,14.0
+1189,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-02-12,2024-02-14,2.0
+1190,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-13,2024-01-19,6.0
+1191,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-22,,
+1192,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-09,,
+1193,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-16,,
+1194,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-13,,
+1195,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-14,2024-01-23,9.0
+1196,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-10,,
+1197,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-14,,
+1198,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-01-05,,
+1199,Multiple,Height,Clinically significant height variation across visits,Minor,Open,2024-02-04,,
+1200,Multiple,Height,Clinically significant height variation across visits,Minor,Closed,2024-01-21,2024-02-02,12.0
